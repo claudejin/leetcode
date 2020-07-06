@@ -7,6 +7,7 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | # | Title | Solution | Difficulty |
 |---| -------- | -------- | -------- |
 | 62 | [Unique Paths](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/) :muscle: | [Python](./solutions/62_Unique_Paths.py) | Medium |
+| 66 | [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) :muscle: | [Python](./solutions/66_Plus_One.py) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/) :muscle: | [Python](./solutions/96_Unique_Binary_Search_Trees.py) | Medium |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) :muscle: | [Python](./solutions/107_Binary_Tree_Level_Order_Traversal_II.py) | Easy |
 | 137 | [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) :muscle: | [Python](./solutions/137_Single_Number_II.py) | Medium |
