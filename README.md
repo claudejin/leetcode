@@ -17,5 +17,6 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | 287 | [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) :muscle: | [Python](./solutions/287_Find_the_Duplicate_Number.py) | Medium |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3374/) :muscle: | [Python](./solutions/332_Reconstruct_Itinerary.py) | Medium |
 | 441 | [Arranging Coins](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) :muscle: | [Python](./solutions/441_Arranging_Coins.py) | Easy |
+| 461 | [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) :muscle: | [Python](./solutions/461_Hamming_Distance.py) | Easy |
 | 957 | [Prison Cells After N Days](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) :muscle: | [Python](./solutions/957_Prison_Cells_After_N_Days.py) | Medium |
 
