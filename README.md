@@ -25,4 +25,5 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | 461 | [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) :muscle: | [Python](./solutions/461_Hamming_Distance.py) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) :muscle: | [Python](./solutions/463_Island_Perimeter.py) | Easy |
 | 957 | [Prison Cells After N Days](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) :muscle: | [Python](./solutions/957_Prison_Cells_After_N_Days.py) | Medium |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) :muscle: | [Python](./solutions/1344_Angle_Between_Hands_of_a_Clock.py) | Medium |
 
