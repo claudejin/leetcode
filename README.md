@@ -7,11 +7,12 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | # | Title | Solution | Difficulty |
 |---| -------- | -------- | -------- |
 | 15 | [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) :muscle: | [Python](./solutions/15_3Sum.py) | Medium |
-| 50 | [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) | [Python](./solutions/50_Pow(x,_n).py) | Medium |
+| 50 | [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) :muscle: | [Python](./solutions/50_Pow(x,_n).py) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/) :muscle: | [Python](./solutions/62_Unique_Paths.py) | Medium |
 | 66 | [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) :muscle: | [Python](./solutions/66_Plus_One.py) | Easy |
+| 67 | [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) :muscle: | [Python](./solutions/67_Add_Binary.py) | Easy |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/) :muscle: | [Python](./solutions/96_Unique_Binary_Search_Trees.py) | Medium |
-| 100 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | [Python](./solutions/100_Same_Tree.py) | Easy |
+| 100 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) :muscle: | [Python](./solutions/100_Same_Tree.py) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) :muscle: | [Python](./solutions/107_Binary_Tree_Level_Order_Traversal_II.py) | Easy |
 | 137 | [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) :muscle: | [Python](./solutions/137_Single_Number_II.py) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) :muscle: | [Python](./solutions/151_Reverse_Words_in_a_String.py) | Medium |
