@@ -23,6 +23,7 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) :alembic: | [Python](./solutions/208_Implement_Trie_(Prefix_Tree).py) | Medium |
 | 212 | [Word Search II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3376/) :muscle: | [Python](./solutions/212_Word_Search_II.py) | Hard |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/) :muscle: | [Python](./solutions/222_Count_Complete_Tree_Nodes.py) | Medium |
+| 258 | [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) :muscle: | [Python](./solutions/258_Add_Digits.py) | Easy |
 | 263 | [Ugly Numbers](https://leetcode.com/problems/ugly-number/) :alembic: | [Python](./solutions/263_Ugly_Numbers.py) | Easy |
 | 264 | [Ugly Numbers II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) :muscle: | [Python](./solutions/264_Ugly_Numbers_II.py) | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) :muscle: | [Python](./solutions/287_Find_the_Duplicate_Number.py) | Medium |
