@@ -17,6 +17,7 @@ Notes: ":muscle:" means that it appears on the challenge​.
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) :muscle: | [Python](./solutions/107_Binary_Tree_Level_Order_Traversal_II.py) | Easy |
 | 137 | [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) :muscle: | [Python](./solutions/137_Single_Number_II.py) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) :muscle: | [Python](./solutions/151_Reverse_Words_in_a_String.py) | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) :muscle: | [Python](./solutions/154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Hard |
 | 174 | [Dungeon Game](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) :muscle: | [Python](./solutions/174_Dungeon_Game.py) | Hard |
 | 203 | [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) :muscle: | [Python](./solutions/203_Remove_Linked_List_Elements.py) | Easy |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) :alembic: | [Python](./solutions/208_Implement_Trie_(Prefix_Tree).py) | Medium |
